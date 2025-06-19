@@ -1,9 +1,0 @@
-package Week1_Design_and_Priciples.FactoryMethodPattern;
-
-public class ExcelDocument implements Document{
-
-    public void open() {
-        System.out.println("Opening Excel Document...");
-    }
-}
-
