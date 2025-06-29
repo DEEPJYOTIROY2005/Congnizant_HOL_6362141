@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerCommLib", "CustomerCommLib.csproj", "{7AAA1815-5CB0-4AFF-857D-4716880F04AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerComm.Tests", "..\CustomerComm.Tests\CustomerComm.Tests.csproj", "{4FE393AB-3837-43EB-BDEC-BBF2BE1863CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AAA1815-5CB0-4AFF-857D-4716880F04AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AAA1815-5CB0-4AFF-857D-4716880F04AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AAA1815-5CB0-4AFF-857D-4716880F04AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AAA1815-5CB0-4AFF-857D-4716880F04AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FE393AB-3837-43EB-BDEC-BBF2BE1863CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE393AB-3837-43EB-BDEC-BBF2BE1863CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE393AB-3837-43EB-BDEC-BBF2BE1863CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE393AB-3837-43EB-BDEC-BBF2BE1863CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FBC2F57-3AE7-4545-B469-D599A68480C1}
+	EndGlobalSection
+EndGlobal
