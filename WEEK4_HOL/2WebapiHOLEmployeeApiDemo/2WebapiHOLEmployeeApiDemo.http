@@ -1,0 +1,6 @@
+@_2WebapiHOLEmployeeApiDemo_HostAddress = http://localhost:5171
+
+GET {{_2WebapiHOLEmployeeApiDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
