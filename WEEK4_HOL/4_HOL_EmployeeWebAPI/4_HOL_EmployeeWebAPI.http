@@ -1,0 +1,6 @@
+@_4_HOL_EmployeeWebAPI_HostAddress = http://localhost:5140
+
+GET {{_4_HOL_EmployeeWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

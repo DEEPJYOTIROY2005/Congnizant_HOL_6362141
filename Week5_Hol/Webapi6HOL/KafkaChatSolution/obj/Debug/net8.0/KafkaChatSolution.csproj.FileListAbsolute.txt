@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\KafkaChatSolution\bin\Debug\net8.0\KafkaChatSolution.exe
+C:\Users\KIIT\Desktop\KafkaChatSolution\bin\Debug\net8.0\KafkaChatSolution.deps.json
+C:\Users\KIIT\Desktop\KafkaChatSolution\bin\Debug\net8.0\KafkaChatSolution.runtimeconfig.json
+C:\Users\KIIT\Desktop\KafkaChatSolution\bin\Debug\net8.0\KafkaChatSolution.dll
+C:\Users\KIIT\Desktop\KafkaChatSolution\bin\Debug\net8.0\KafkaChatSolution.pdb
+C:\Users\KIIT\Desktop\KafkaChatSolution\obj\Debug\net8.0\KafkaChatSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\KafkaChatSolution\obj\Debug\net8.0\KafkaChatSolution.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\KafkaChatSolution\obj\Debug\net8.0\KafkaChatSolution.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\KafkaChatSolution\obj\Debug\net8.0\KafkaChatSolution.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\KafkaChatSolution\obj\Debug\net8.0\KafkaChatSolution.dll
+C:\Users\KIIT\Desktop\KafkaChatSolution\obj\Debug\net8.0\refint\KafkaChatSolution.dll
+C:\Users\KIIT\Desktop\KafkaChatSolution\obj\Debug\net8.0\KafkaChatSolution.pdb
+C:\Users\KIIT\Desktop\KafkaChatSolution\obj\Debug\net8.0\KafkaChatSolution.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\KafkaChatSolution\obj\Debug\net8.0\ref\KafkaChatSolution.dll
