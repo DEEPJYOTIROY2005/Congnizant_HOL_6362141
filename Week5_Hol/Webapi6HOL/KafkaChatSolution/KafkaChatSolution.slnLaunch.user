@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\KafkaProducerApp\\KafkaProducerApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\KafkaConsumerApp\\KafkaConsumerApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
